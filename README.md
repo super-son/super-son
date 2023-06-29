@@ -5,8 +5,8 @@ I am SON, a recent data science graduate from [The University of Pukyong](https:
 [![Youtube Badge](https://img.shields.io/badge/-0pome0-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/koolkanna)](https://www.youtube.com/c/0pome0)
 [![Gmail Badge](https://img.shields.io/badge/-newhj1447@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kanna6501@gmail.com)](mailto:newhj1447@gmail.com)
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=super-son)](https://github.com/super-son/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=super-son)](https://github.com/super-son/github-readme-stats)
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 ## ⚡ Technologies
 
@@ -16,7 +16,6 @@ I am SON, a recent data science graduate from [The University of Pukyong](https:
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
@@ -24,5 +23,5 @@ I am SON, a recent data science graduate from [The University of Pukyong](https:
 ![Lingo](https://img.shields.io/badge/-Lingo-red?style=flat-square&logo=Lingo)
 
 
-# [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=super-son)](https://github.com/super-son/github-readme-stats)
+
 
