@@ -22,6 +22,6 @@ I am SON, a recent data science graduate from [The University of Pukyong](https:
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Lingo](https://img.shields.io/badge/-Lingo-red?style=flat-square&logo=Lingo)
 ![Vue](https://img.shields.io/badge/-Vue-green?style=flat-square&logo=Vue)
-
+![Colab](https://img.shields.io/badge/-Colab-orange?style=flat-square&logo=Colab)
 
 
